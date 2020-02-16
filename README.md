@@ -1,6 +1,6 @@
 # IBM_MQ_PageSets_Monitor
 
-a simple monitor for IBM MQ. builds a dynamically updated graph for the pagesets fill level.
+a simple monitor for IBM MQ.
 
 this is the simplest application for the working needs of our development site.
 
