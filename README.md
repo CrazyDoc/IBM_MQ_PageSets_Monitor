@@ -1,10 +1,12 @@
 # IBM_MQ_PageSets_Monitor
 
-a simple monitor for IBM MQ.
+use only if you don't have ITCAM, otherwise it's better to set up a monitoring agent
 
-this is the simplest application for the working needs of our development site.
+Simple monitor for IBM MQ.
 
-think of it as an application to the repository: https://github.com/CrazyDoc/NJElib/tree/py3
+Simplest application for the working needs of our development site.
+
+Think of it as an application to the repository: https://github.com/CrazyDoc/NJElib/tree/py3
 
 Use a file entry to display the last hour(every 5min default, without a Date) and an entry in sqlite for the archive. Django server with a schedule in real-time(used JS and Ajax) mode, see the neighboring repository
 
